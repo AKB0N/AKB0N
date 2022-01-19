@@ -66,7 +66,7 @@ const vedant = {
 <br>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+
 
 
 
@@ -82,7 +82,7 @@ const vedant = {
 </div>
 <br>
 
-</td></tr></table>  
+</td></tr> 
 
 
 <br>
