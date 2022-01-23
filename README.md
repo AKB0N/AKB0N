@@ -3,8 +3,8 @@
 <img src="https://jojoee.jojoee.com/api/utcnow?refresh" width="120" height="20">
 </div>
 
-# Hi there, I'm Ibrahim Fathelbab(AKBON) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"><a href="https://play.google.com/store/apps/dev?id=4947539289602551616&hl=ar&gl=US"><img src="https://camo.githubusercontent.com/a54b4bd153b5398a9f364f58d30e0e58ba24afaa883125ff27a9bc6715206c09/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f696453747564696f2d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465?style=for-the-badge&logo=flutter&logoColor=white"></a>
+# Hi there, I'm Ibrahim Fathelbab(AKBON) <a href="https://play.google.com/store/apps/dev?id=4947539289602551616&hl=ar&gl=US"><img src="https://camo.githubusercontent.com/0970391e8ed2f4cf4b738e87494c203e0e13052a6b7fa0468588ff7984e9ea8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c655f506c61792d3431343134313f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d706c6179266c6f676f436f6c6f723d7768697465?style=for-the-badge&logo=flutter&logoColor=white"></a><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 <p align="center">
