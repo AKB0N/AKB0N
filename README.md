@@ -37,17 +37,17 @@
 ```javascript
 const vedant = {
     pronouns: "He" | "Him",
-    code: ["Dart", "C","PHP"],
+    code: ["Dart","C"],
     askMeAbout: ["AndroidDev", "Tech", "Gaming"],
     technologies: {
         backEnd: {
             js: ["Node"],
         },
         devOps: ["Azure"],
-        databases: ["MySql", "sqlite"],
-        misc: ["Firebase", "php", "SuiteApp","discord.py"]
+        databases: ["SQfLite"],
+        misc: ["Firebase"]
     },
-    currentFocus: "Flutter",
+    currentFocus: ["Firebase","Flutter","Dart"],
     fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
           The second byte replies, 'No, just feeling a bit off.'"
 };
