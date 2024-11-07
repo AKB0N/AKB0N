@@ -36,7 +36,7 @@
 
 ```javascript
 class AKBON {
-  String pronouns = 'He'; //  Directly using "|" for string combination.
+  String pronouns = 'He';
   List<String> code = ['Dart', 'C'];
   List<String> askMeAbout = ['AndroidDev', 'Tech', 'Gaming'];
   Technologies technologies = Technologies();
