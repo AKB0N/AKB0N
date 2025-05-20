@@ -71,12 +71,12 @@ Data Structures, Algorithms, Problem Solving, Responsive Design, App Performance
 
 ## ✨ Key Projects
 
-### [Thema AI Wallpapers](https://play.google.com/store/apps/details?id=your.app.id.themai) (Flutter) - *In Development (Est. Oct 2024)*
+### [Thema AI Wallpapers](https://play.google.com/store/apps/details?id=com.akbon.thema) (Flutter) - *In Development (Est. Oct 2024)*
 *   Leveraging **Google's Imagen 3** via **Vertex AI** for personalized AI wallpaper generation.
 *   Core text-to-image pipeline for intuitive, high-quality AI visual creation.
 *   User-centric features for wallpaper download and direct application (home/lock).
 
-### [Material You Dynamic Icon Pack (AKBON Icons)](https://play.google.com/store/apps/details?id=com.akbon.icons.materialyou) (Flutter)
+### [Material You Dynamic Icon Pack (AKBON Icons)](https://play.google.com/store/apps/details?id=com.akbon.myd) (Flutter)
 *   The first icon pack launcher dashboard utilizing Flutter.
 *   Recognized as a **9to5Google Favorite Material You Icon Pack** and one of the **23 Best Apps for Android Customization 2023 by Xtream Droid**.
 *   Features Material Design dashboard, adaptive icons, 20+ launcher support, cloud wallpapers, offline functionality, and theme options.
@@ -108,11 +108,10 @@ Data Structures, Algorithms, Problem Solving, Responsive Design, App Performance
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://readme-stats-envoy-vc.vercel.app/api?username=akb0n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="AKBON's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akb0n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="AKBON's GitHub stats" />
   <br/>
-  <img src="https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=akb0n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akb0n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
-
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
