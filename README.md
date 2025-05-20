@@ -10,7 +10,7 @@
     <a href="https://g.dev/AKBON"><img src="https://img.shields.io/badge/Google_Developers-g.dev/AKBON-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile"></a>
   </p>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ADAD&size=22¢er=true&vCenter=true&lines=Versatile+Software+Developer;Flutter+&+AOSP+Expertise;1M%2B+App+Downloads;Community+Builder+@+GDG+Cairo">
+    <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ADAD&size=22¢er=true&vCenter=true&lines=Versatile+Software+Developer;Flutter+AOSP+Expertise;1M%2B+App+Downloads;Community+Builder+@+GDG+Cairo">
   </p>
 </div>
 
