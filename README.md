@@ -117,17 +117,25 @@ Data Structures, Algorithms, Problem Solving, Responsive Design, App Performance
 No Activity tracked this Week
 
 <!--END_SECTION:waka-->
-(This section auto-updates if you have WakaTime configured)
-📕 Latest Blog Posts
+---
+
+## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-How to Build Lineage OS Based ROM!
-How to Create an Account on 4pda.ru
-How to Updating Github repository with changes from local project?
-How to Pushing your local project to GitHub ✨✨✨
-Guide FIX RIL in CrossPorted ROMs for MT6580
+- [How to Build Lineage OS Based ROM!](https://akb0n.blogspot.com/2020/01/how-to-build-lineage-os-based-rom.html)
+- [How to Create an Account on 4pda.ru](https://akb0n.blogspot.com/2018/06/how-to-create-account-on-4pdaru.html)
+- [How to Updating Github repository with changes from local project?](https://akb0n.blogspot.com/2018/06/how-to-updating-github-repository-with.html)
+- [How to Pushing your local project to GitHub ✨✨✨](https://akb0n.blogspot.com/2018/06/how-to-pushing-your-local-project-to.html)
+- [Guide FIX RIL in CrossPorted ROMs for MT6580](https://akb0n.blogspot.com/2017/11/guide-fix-ril-in-crossported-roms-for.html)
 <!-- BLOG-POST-LIST:END -->
-(This section auto-updates if you have the GitHub Actions workflow for blog posts)
+
+---
+
 <p align="center">
-<em>Thanks for visiting my profile! Let's connect and build something amazing.</em>
+  <em>Thanks for visiting my profile! Let's connect and build something amazing.</em>
 </p>
+
+
+
 ```
+
+
