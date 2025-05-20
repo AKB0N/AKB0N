@@ -108,9 +108,9 @@ Data Structures, Algorithms, Problem Solving, Responsive Design, App Performance
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akb0n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="AKBON's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akb0n" alt="AKBON's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akb0n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akb0n&layout=compact" alt="Top Languages" />
 </p>
 <!--START_SECTION:waka-->
 ```text
