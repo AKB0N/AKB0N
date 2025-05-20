@@ -129,13 +129,9 @@ No Activity tracked this Week
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
 <p align="center">
   <em>Thanks for visiting my profile! Let's connect and build something amazing.</em>
 </p>
 
-
-
-```
 
 
